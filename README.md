@@ -1,3 +1,1 @@
-# About the project
-
-EED's assignment.
+# git_remoto_p1\nInformación del proyecto.
