@@ -6,7 +6,10 @@ public class App {
         for (int i = 0; i < args.length; i++) {
             System.out.println(args[i]);
         }
+HEAD
 
         System.out.println("Fin del programa.");
+
+bug1
     }
 }
